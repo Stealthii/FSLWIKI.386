@@ -21,6 +21,3 @@
 
 [Blog](http://farsetlabs.org.uk/blog/)
 [Discourse](http://discourse.farsetlabs.org.uk/)
-
-
-[gimmick:forkmeongithub](http://github.com/FarsetLabs/wiki/)
